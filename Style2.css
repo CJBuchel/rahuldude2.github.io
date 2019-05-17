@@ -1,0 +1,27 @@
+body {
+background: #C5D618;
+text-align: left;
+}
+#main {
+	width: 1000px;
+	height: 600px;
+	background: #123CD8;
+	margin: 32px auto;
+	border: solid 5px #AB12D8;
+	}
+		h1 {text.align: right; 
+		font-family:"Calibri";
+		font: 25pt;
+		color: #12D88A;
+}
+hr {
+	height: 2px;
+	color: #D8D512;
+}
+P {
+	font-family:"Times New Roman";
+	font-size: 12pt;
+	font-align: left;
+	text-indent: 42px;
+	color:#2E2123;
+}
